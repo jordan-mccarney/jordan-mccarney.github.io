@@ -9,8 +9,6 @@ author_profile: true
 ## 2025
 
 - (with D. Devine) Flow underlying coupled surface and internal waves with lower layer vorticity. <br>  *In preparation*.
-  
- <!-- [PDF](link) | [DOI](link) -->
 
 - (with T. Lyons) Nonlinear temperature dependent enthalpies in exact nonlinear mountain waves. <br> 
   *Differential Integral Equations, in press.*
