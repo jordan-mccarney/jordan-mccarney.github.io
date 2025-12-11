@@ -13,7 +13,7 @@ Click [here](/files/MyCV.pdf) to download a more complete CV.
 
 Education
 ======
-* Ph.D in Mathematics, University College Cork, 2016 (expected) <br>
+* Ph.D in Mathematics, University College Cork, 2026 (expected) <br>
   Thesis: Mathematical aspects of internal wave-current interactions <br>
   Advisor: Dr. David Henry
 * B.Sc. in Theoretical Physics, University of Galway (formerly National University of Ireland, Galway) <br>
