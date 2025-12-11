@@ -1,5 +1,7 @@
 ---
 title: "Temperature dependent precipitation in exact nonlinear mountain waves"
+collection: publications
+category: manuscripts
 authors: "with (T. Lyons)"
 journal: "J. Math. Fluid Mech., 27(3)"
 year: 2025
