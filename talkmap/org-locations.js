@@ -10,7 +10,7 @@ var addressPoints = [
     -0.0609822
   ],
   [
-    "taLK 2<br />ven; loc",
+    "taLk 2<br />ven; loc",
     43.7832704,
     -0.0609822
   ],
