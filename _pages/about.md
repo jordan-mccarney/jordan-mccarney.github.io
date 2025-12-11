@@ -23,3 +23,5 @@ T12 XF62<br>
 
 <!-- ### Email
  jordanmccarney 'at' umail 'dot' ucc 'dot' ie -->
+
+<img src="/images/SeaSun.jpg" alt="My photo" style="float: right; width: 200px; margin-left: 20px; margin-bottom: 20px;">
