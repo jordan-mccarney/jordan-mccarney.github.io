@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+# CV 
+Click [here](/files/MyCV.pdf) to download a more complete CV.
 
 Education
 ======
