@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 
+
+{% markdown %}
 ## 2025
 
 - (with D. Devine) Flow underlying coupled surface and internal waves with lower layer vorticity. <br>  *In preparation*.
@@ -23,3 +25,4 @@ author_profile: true
 ## 2023
 - [Exact internal waves in the presence of mean currents and rotation](https://pubs.aip.org/aip/jmp/article-abstract/64/7/073101/2902963/Exact-internal-waves-in-the-presence-of-mean). <br>
   *J. Math. Phys.,* 64(7).
+{% endmarkdown %}
