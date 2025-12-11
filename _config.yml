@@ -30,7 +30,7 @@ author:
   location         : #"Cork, Ireland"
   employer         : #"University College Cork"
   uri              : # URL
-  email            : #"jordanmccarney@umail.ucc.ie" 
+  email            : "jordanmccarney@umail.ucc.ie" 
 
   # Academic websites
   academia         : # URL
