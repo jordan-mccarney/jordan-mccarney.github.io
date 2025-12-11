@@ -27,10 +27,10 @@ author:
   name             : "Jordan McCarney"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
-  location         : "Cork, Ireland"
-  employer         : "University College Cork"
+  location         : #"Cork, Ireland"
+  employer         : #"University College Cork"
   uri              : # URL
-  email            : "jordanmccarney@umail.ucc.ie" 
+  email            : #"jordanmccarney@umail.ucc.ie" 
 
   # Academic websites
   academia         : # URL
