@@ -14,6 +14,9 @@ My research interests concern the analysis of nonlinear partial differential equ
 <br>
 
 ### Contact
+<img src="/images/SeaSun.png"
+     alt="Sea and Sun"
+     style="float: right; width: 180px; margin-left: 20px; margin-bottom: 10px;">
 School of Mathematical Sciences,<br>
 Western Gateway Building,<br>
 Western Road,<br>
