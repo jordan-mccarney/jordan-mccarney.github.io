@@ -23,18 +23,18 @@ Click [here](/files/MyCV.pdf) to download a more complete CV.
 
 ### Teaching
 
-#### Teaching assistant - University College Cork
-* AM4063 Partial Differential Equations with Applications II <br>
-* AM3063 Partial Differential Equations with Applications I <br>
-* AM3052 Introduction to Fluid Mechanics and Wave Theories <br>
-* AM2071 Transform and Variational Methods <br>
+* #### Teaching assistant - University College Cork
+  + AM4063 Partial Differential Equations with Applications II <br>
+  + AM3063 Partial Differential Equations with Applications I <br>
+  + AM3052 Introduction to Fluid Mechanics and Wave Theories <br>
+  + AM2071 Transform and Variational Methods <br>
 
-#### Tutor - University College Cork
-* AM2061 Computer Modelling and Numerical Techniques <br>
-* AM1052 Introduction to Mechanics
+* #### Tutor - University College Cork
+  + AM2061 Computer Modelling and Numerical Techniques <br>
+  + AM1052 Introduction to Mechanics
 
-#### Tutor - University of Galway
-* Physics Undergraduate Problem Solving (PUPS)- Drop-in tutorial support sessions for 1st year physics students.
+* #### Tutor - University of Galway
+  + Physics Undergraduate Problem Solving (PUPS)- Drop-in tutorial support sessions for 1st year physics students.
 
 ### Supervision
 
