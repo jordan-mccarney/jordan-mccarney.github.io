@@ -24,7 +24,7 @@ Western Road,<br>
 University College Cork, Ireland<br>
 T12 XF62<br>
 <br>
-(This page is currently under construction as of 11 December 2025)
+
 
 <!-- ### Email
  jordanmccarney 'at' umail 'dot' ucc 'dot' ie 
