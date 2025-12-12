@@ -45,3 +45,6 @@
   max-width: 200px !important;
   border-radius: 5% !important;   // optional
 }
+a:visited {
+    color: var(--global-link-color-visited) !important;
+}
