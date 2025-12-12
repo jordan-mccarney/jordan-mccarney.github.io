@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Jordan's Homepage"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Jordan McCarney"
 description              : &description "jordan's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "JMc.png"
-  name             : "Jordan McCarney"
+  name             : #"Jordan McCarney"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : #"Cork, Ireland"
