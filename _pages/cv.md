@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: false
 redirect_from:
@@ -8,19 +8,20 @@ redirect_from:
 ---
 
 {% include base_path %}
+# CV
 
 Click [here](/files/MyCV.pdf) to download a more complete CV.
 
-Education
-======
+## Education
+
 * Ph.D in Mathematics, University College Cork, 2026 (expected). <br>
   Thesis: Mathematical aspects of internal wave-current interactions. <br>
   Advisor: Dr. David Henry.
 * B.Sc. in Theoretical Physics, University of Galway (formerly National University of Ireland, Galway). <br>
   Thesis: Roulettes and pedal curves: generation of road-wheel pairs. <br>
 
-Teaching
-======
+## Teaching
+
 ### Teaching assistant - University College Cork
 * AM4063 Partial Differential Equations with Applications II <br>
 * AM3063 Partial Differential Equations with Applications I <br>
@@ -34,13 +35,13 @@ Teaching
 ### Tutor - University of Galway
 * Physics Undergraduate Problem Solving (PUPS)- Drop-in tutorial support sessions for 1st year physics students.
 
-Supervision
-======
+## Supervision
+
 * B.Sc. Mathematical Sciences Thesis
     + Ms. Megan Flynn, "Topological degree theory and its applications".
 
-Referee Activity 
-======
+## Referee Activity 
+
 * Journal of Mathematical Physics
 * Nonlinear Analysis: Real World Applications
 * Qualitative Theory of Dynamical Systems
