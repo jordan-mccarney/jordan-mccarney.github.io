@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Jordan McCarney - research"
 author_profile: true
 redirect_from: 
   - /about/
