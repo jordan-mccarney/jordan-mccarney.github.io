@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV | Jordan McCarney"
+title: "CV"
 permalink: /cv/
 author_profile: false
 redirect_from:
@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-# CV
 -----
 
 Click [here](/files/MyCV.pdf) to download a more complete CV.
