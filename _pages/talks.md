@@ -1,8 +1,10 @@
 ---
 layout: archive
-title: ""
+title: "Talks and Conferences"
 permalink: /talks/
 author_profile: false
+---
+
 ---
 
 # Invited talks
