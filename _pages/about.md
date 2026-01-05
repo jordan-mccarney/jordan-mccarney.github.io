@@ -9,7 +9,7 @@ redirect_from:
 # Jordan McCarney 
 I am a final year PhD student in the [School of Mathematical Sciences](https://www.ucc.ie/en/matsci/) at [University College Cork](https://www.ucc.ie/en/) under the supervision of [Dr. David Henry](https://www.ucc.ie/en/matsci/people/davidhenry/). <br> 
 <br>
-My research interests concern the analysis of nonlinear partial differential equations, and in particular, the Euler equations for geophysical fluid dynamics in both the ocean and atmosphere.<br>
+My research interests concern the analysis of nonlinear partial differential equations which arise in applications. In particular, my research focuses on free-boundary problems and the Euler equations for geophysical fluid dynamics in both the ocean and in the atmosphere.<br>
 <!-- <img src="/images/SeaSun.png"
      alt="Sea and Sun"
      style="float: right; width: 400px; height: 240px; margin-left: 20px; margin-bottom: 10px;"><br>
