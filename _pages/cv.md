@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: ""
+tab_title: CV | Jordan McCarney
 permalink: /cv/
 author_profile: false
 redirect_from:
