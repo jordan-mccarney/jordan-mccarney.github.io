@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
----
-
 ## About me 
 I am a final year PhD student in the [School of Mathematical Sciences](https://www.ucc.ie/en/matsci/) at [University College Cork](https://www.ucc.ie/en/) under the supervision of [Dr. David Henry](https://www.ucc.ie/en/matsci/people/davidhenry/). <br> 
 <br>
