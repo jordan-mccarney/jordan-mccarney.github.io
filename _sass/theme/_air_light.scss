@@ -3,7 +3,7 @@
    ========================================================================== */
 
 /* Color codes used for the theme */
-$primary-color              : #e82c2e;
+$primary-color              : #a2c4c9;
 $dark-primary-color         : mix(#000, $primary-color, 40%);
 $darker-primary-color       : mix(#000, $primary-color, 60%);
 $light-primary-color        : mix(#000, $primary-color, 50%);
@@ -53,34 +53,4 @@ $sidebar-screen-min-width   : 1024px;
     --global-text-color                 : #{$text};
     --global-text-color-light           : #{$light-primary-color};
     --global-thead-color                : #{$background-lighter};
-}
-/* ==========================================================================
-   Masthead (Top Navigation Bar) Styling
-   ========================================================================== */
-
-.masthead,
-.masthead__inner-wrap,
-.greedy-nav {
-  background-color: #153f62 !important;
-}
-
-/* Navigation links */
-.greedy-nav a {
-  color: #ffffff !important;
-}
-
-/* Hover state */
-.greedy-nav a:hover {
-  color: lighten(#153f62, 35%) !important;
-}
-
-/* Active / current page */
-.greedy-nav .is-active a {
-  color: #ffffff !important;
-  border-bottom-color: #ffffff !important;
-}
-
-/* Mobile hamburger icon */
-.greedy-nav__toggle {
-  color: #ffffff !important;
 }
