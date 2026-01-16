@@ -3,7 +3,7 @@
    ========================================================================== */
 
 /* Color codes used for the theme */
-$primary-color              : #3d85c6;
+$primary-color              : #153f62;
 $dark-primary-color         : mix(#000, $primary-color, 40%);
 $darker-primary-color       : mix(#000, $primary-color, 60%);
 $light-primary-color        : mix(#000, $primary-color, 50%);
@@ -16,6 +16,7 @@ $link                       : #0075c5;
 $link-dark                  : mix(#000, $link, 25%);
 $link-light                 : #0075c5;
 $footer                     : $primary-color;
+$header                     : #153F62
 
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;
