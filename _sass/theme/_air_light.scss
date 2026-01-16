@@ -17,6 +17,7 @@ $link-dark                  : mix(#000, $link, 25%);
 $link-light                 : #0075c5;
 $footer                     : $primary-color;
 
+
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;
 $info-color                 : #2f7f93;
@@ -51,5 +52,8 @@ $sidebar-screen-min-width   : 1024px;
     --global-masthead-link-color-hover  : #{$link};
     --global-text-color                 : #{$text};
     --global-text-color-light           : #{$light-primary-color};
-    --global-thead-color                : #153F62;
+    --global-thead-color                : #{$background-lighter};
+}
+.masthead {
+  background-color: $primary-color;
 }
