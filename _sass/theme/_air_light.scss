@@ -54,3 +54,33 @@ $sidebar-screen-min-width   : 1024px;
     --global-text-color-light           : #{$light-primary-color};
     --global-thead-color                : #{$background-lighter};
 }
+/* ==========================================================================
+   Masthead (Top Navigation Bar) Styling
+   ========================================================================== */
+
+/* Masthead background */
+.masthead {
+  background-color: #153f62;
+}
+
+/* Navigation links (CV, Talks, etc.) */
+.masthead a {
+  color: #ffffff;
+  transition: $global-transition;
+}
+
+/* Hover state */
+.masthead a:hover {
+  color: lighten(#153f62, 35%);
+}
+
+/* Active / selected navigation item */
+.masthead__menu-item.is-active a {
+  color: #ffffff;
+  border-bottom-color: #ffffff;
+}
+
+/* Mobile menu (hamburger icon) */
+.greedy-nav__toggle {
+  color: #ffffff;
+}
