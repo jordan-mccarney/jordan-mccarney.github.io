@@ -44,4 +44,4 @@ Click [here](/files/MyCV.pdf) to download a more complete CV.
 
 * Journal of Mathematical Physics
 * Nonlinear Analysis: Real World Applications
-<!-- * Qualitative Theory of Dynamical Systems -->
+* Qualitative Theory of Dynamical Systems
