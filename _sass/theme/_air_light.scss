@@ -80,3 +80,18 @@ $sidebar-screen-min-width   : 1024px;
 .greedy-nav__toggle {
   color: #ffffff !important;
 }
+
+/* Icon colour */
+.toggle-theme {
+  color: #ffd966 !important;
+}
+
+/* Hover state */
+.toggle-theme:hover {
+  color: lighten($primary-color, 35%) !important;
+}
+
+/* SVG inside the toggle */
+.toggle-theme svg {
+  fill: currentColor !important;
+}
