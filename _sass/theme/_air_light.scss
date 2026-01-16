@@ -81,17 +81,28 @@ $sidebar-screen-min-width   : 1024px;
   color: #ffffff !important;
 }
 
-/* Icon colour */
-.toggle-theme {
-  color: #ffd966 !important;
+/* Button itself */
+.masthead button,
+.greedy-nav button {
+  color: #ffd966 !important; // dark icon for contrast on red
+}
+
+/* SVG icon */
+.masthead button svg,
+.greedy-nav button svg {
+  fill: currentColor !important;
+  stroke: currentColor !important;
+}
+
+/* SVG paths (some versions need this) */
+.masthead button svg path,
+.greedy-nav button svg path {
+  fill: currentColor !important;
+  stroke: currentColor !important;
 }
 
 /* Hover state */
-.toggle-theme:hover {
+.masthead button:hover,
+.greedy-nav button:hover {
   color: lighten($primary-color, 35%) !important;
-}
-
-/* SVG inside the toggle */
-.toggle-theme svg {
-  fill: currentColor !important;
 }
