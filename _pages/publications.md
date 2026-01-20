@@ -13,7 +13,7 @@ author_profile: false
   *In preparation*.
 
 - (with T. Lyons) Nonlinear temperature dependent enthalpies in exact nonlinear mountain waves. <br>
-  *Differential Integral Equations, in press.*
+  *Differential and Integral Equations, in press.*
 
 - (with T. Lyons) [Temperature dependent precipitation in exact nonlinear mountain waves](https://link.springer.com/article/10.1007/s00021-025-00946-y). <br>
   *J. Math. Fluid Mech.,* 27(3).
