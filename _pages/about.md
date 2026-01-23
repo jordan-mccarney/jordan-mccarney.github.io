@@ -34,11 +34,11 @@ T12 XF62<br>
 
 <figure style="margin-top: 2rem; text-align: center;">
   <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-    <img src="/images/UCC buoy.jpg" style="max-width: 300px; width: 100%;">
-    <img src="/images/UCC Gluck.jpg" style="max-width: 300px; width: 100%;">
-    <img src="/images/UCC willow.jpg" style="max-width: 300px; width: 100%;">
+    <img src="/images/UCC buoy.JPG" style="max-width: 300px; width: 100%;">
+    <img src="/images/UCC Gluck.JPG" style="max-width: 300px; width: 100%;">
+    <img src="/images/UCC willow.JPG" style="max-width: 300px; width: 100%;">
   </div>
   <figcaption style="margin-top: 0.75rem; font-size: 0.9em; color: #666;">
-    A walk around UCC's campus.
+    A walk around campus.
   </figcaption>
 </figure>
