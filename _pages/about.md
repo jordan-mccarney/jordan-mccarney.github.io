@@ -31,3 +31,14 @@ T12 XF62<br>
  jordanmccarney 'at' umail 'dot' ucc 'dot' ie 
 
 <img src="/images/SeaSun.jpg" alt="My photo" style="float: right; width: 200px; margin-left: 20px; margin-bottom: 20px;"> -->
+
+<figure style="margin-top: 2rem; text-align: center;">
+  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+    <img src="/images/UCC buoy.jpg" style="max-width: 300px; width: 100%;">
+    <img src="/images/UCC Gluck.jpg" style="max-width: 300px; width: 100%;">
+    <img src="/images/UCC willow.jpg" style="max-width: 300px; width: 100%;">
+  </div>
+  <figcaption style="margin-top: 0.75rem; font-size: 0.9em; color: #666;">
+    A walk around UCC's campus.
+  </figcaption>
+</figure>
