@@ -38,7 +38,7 @@ T12 XF62<br>
     <img src="/images/UCC Gluck.JPG" style="width: 31%;">
     <img src="/images/UCC willow.JPG" style="width: 31%;">
   </div>
-  <figcaption style="margin-top: 0.75rem; font-size: 0.9em; color: #666;">
+  <figcaption text-align: center; style="margin-top: 0.75rem; font-size: 0.9em; color: #666;">
     A walk around campus.
   </figcaption>
 </figure>
