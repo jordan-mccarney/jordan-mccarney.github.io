@@ -20,7 +20,7 @@ author_profile: false
 
 ## 2024 
 
-- [Nonhydrostatic internal waves in the presence of mean currents and rotation](https://pubs.aip.org/aip/jmp/article-abstract/65/4/043101/3283077/Nonhydrostatic-internal-waves-in-the-presence-of)<sup style="font-size: 18px;">*</sup>. <br>
+- [Nonhydrostatic internal waves in the presence of mean currents and rotation](https://pubs.aip.org/aip/jmp/article-abstract/65/4/043101/3283077/Nonhydrostatic-internal-waves-in-the-presence-of)<sup>*</sup>. <br>
   *Journal of Mathematical Physics,* 65(4).
 
 ## 2023
@@ -30,5 +30,5 @@ author_profile: false
 
  
 <div style="font-size:16px;">
-  <p><sup style="font-size: 18px;">*</sup> Awarded Postgraduate Publication of the Year, UCC College of Science, Engineering and Food Science.</p>
+  <p><sup>*</sup> Awarded Postgraduate Publication of the Year, UCC College of Science, Engineering and Food Science.</p>
 </div>
