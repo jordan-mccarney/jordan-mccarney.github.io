@@ -7,13 +7,15 @@ author_profile: false
 
 ---
 
-## 2025
+## 2026 
 
-- (with D. Devine) Flow underlying coupled surface and internal waves with lower layer vorticity. <br>
+- (with D. Devine) Flow underlying coupled surface and internal waves with rotational lower layer. <br>
   *In preparation*.
 
 - (with T. Lyons) Nonlinear temperature dependent enthalpies in exact nonlinear mountain waves. <br>
   *Differential and Integral Equations, in press.*
+
+## 2025
 
 - (with T. Lyons) [Temperature dependent precipitation in exact nonlinear mountain waves](https://link.springer.com/article/10.1007/s00021-025-00946-y). <br>
   *Journal of Mathematical Fluid Mechanics,* 27(3).
@@ -30,5 +32,5 @@ author_profile: false
 
  
 <div style="font-size:16px;">
-  <p><sup>*</sup> Awarded Postgraduate Publication of the Year, UCC College of Science, Engineering and Food Science.</p>
+  <p><sup>*</sup> * Awarded Postgraduate Publication of the Year, UCC College of Science, Engineering and Food Science.</p>
 </div>
