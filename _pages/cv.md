@@ -29,6 +29,7 @@ Click [here](/files/MyCV.pdf) to download a more complete CV.
   + AM2071 Transform and Variational Methods <br>
 
 * #### Tutor - University College Cork
+  + AM2071 Transform and Variational Methods <br>
   + AM2061 Computer Modelling and Numerical Techniques <br>
   + AM1052 Introduction to Mechanics
 
