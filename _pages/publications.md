@@ -32,5 +32,5 @@ author_profile: false
 
  
 <div style="font-size:16px;">
-   * Awarded Postgraduate Publication of the Year, UCC College of Science, Engineering and Food Science.</p>
+   * Awarded Postgraduate Publication of the Year, UCC College of Science, Engineering and Food Science.
 </div>
