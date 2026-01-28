@@ -22,8 +22,9 @@ author_profile: false
 
 ## 2024 
 
-- [Nonhydrostatic internal waves in the presence of mean currents and rotation](https://pubs.aip.org/aip/jmp/article-abstract/65/4/043101/3283077/Nonhydrostatic-internal-waves-in-the-presence-of)*. <br>
+- [Nonhydrostatic internal waves in the presence of mean currents and rotation](https://pubs.aip.org/aip/jmp/article-abstract/65/4/043101/3283077/Nonhydrostatic-internal-waves-in-the-presence-of) *. <br>
   *Journal of Mathematical Physics,* 65(4).
+  
 
 ## 2023
 
