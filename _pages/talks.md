@@ -9,6 +9,11 @@ author_profile: false
 
 # Invited talks
 
+## 2026
+
+* <ins>Mathematics and Statistics Seminar</ins>.<br>
+Technological University Dublin, Ireland.
+
 ## 2025
 
 * [Oberseminar Analysis und Theoretische Physik](https://www.ifam.uni-hannover.de/de/forschung/angewandte-analysis/os-analysis-und-theoretische-physik).<br>
