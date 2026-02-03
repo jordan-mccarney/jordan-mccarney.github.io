@@ -31,7 +31,7 @@ International Centre for Mathematical meetings (CIEM), Castro Urdiales, Spain.<b
 ## 2024 
 
 * [Water Waves-Mathematical Theory and Applications](https://rstuhlmeier.github.io/conferences/workshop2024.html).<br>
-University of Plymouth, England.<br>
+University of Plymouth, United Kingdom.<br>
 (poster and short oral presentation).
 
 * [EWM-EMS Summer School: Water Waves and Nonlinear Dispersive Equations](https://www.mittag-leffler.se/activities/ewm-ems-summer-school-water-waves-and-nonlinear-dispersive-equations/).<br>
