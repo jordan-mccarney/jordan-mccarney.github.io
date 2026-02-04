@@ -15,6 +15,7 @@ author_profile: false
 Delft University of Technology, Delft, The Netherlands.
 
 * [SIAM Conference on Nonlinear Waves and Coherent Structures (NWCS26)](https://www.siam.org/conferences-events/siam-conferences/nwcs26/).<br>
+Contributed Presentation on [Atmospheric and Mountain Wave Theory](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=88661).<br>
 Concordia University, Québec, Canada.
 
 * <ins>Mathematics and Statistics Seminar</ins>.<br>
