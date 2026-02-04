@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 -----
 
-Click [here](/files/MyCV.pdf) to download a more complete CV.
+Click [here](/files/JMcCV.pdf) to download a more complete CV.
 
 ### Education
 
