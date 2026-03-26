@@ -11,7 +11,7 @@ author_profile: false
 
 ## 2026
 
-* <ins>Wave-NED Conference on Mathematics of Wave Phenomena</ins>.<br>
+* [Wave-NED Conference on Mathematics of Wave Phenomena](https://www.tudelft.nl/evenementen/2026/ewi/diam/wave-ned).<br>
 Delft University of Technology, Delft, The Netherlands.
 
 * [SIAM Conference on Nonlinear Waves and Coherent Structures (NWCS26)](https://www.siam.org/conferences-events/siam-conferences/nwcs26/).<br>
