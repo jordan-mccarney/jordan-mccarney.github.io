@@ -30,7 +30,7 @@ Click [here](/files/My_CV.pdf) to download a more complete CV.
   * #### Postgraduate Publication of the Year
     UCC College of Science, Engineering and Food Science. <br>
     I received this award for my independent research article "Nonhydrostatic internal waves in the presence of mean currents
-and rotation", *Journal of Mathematical Physics*, 65(4, 2024.
+and rotation", *Journal of Mathematical Physics*, 65(4), 2024.
 
 ### Teaching
 
