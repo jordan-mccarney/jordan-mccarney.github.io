@@ -20,6 +20,18 @@ Click [here](/files/My_CV.pdf) to download a more complete CV.
 * B.Sc. in Theoretical Physics, University of Galway (formerly National University of Ireland, Galway). <br>
   Thesis: Roulettes and pedal curves: generation of road-wheel pairs. <br>
 
+### Awards and Prizes
+
+  * #### SIAM Travel Award
+    Approx. USD 1,000. <br>
+    Society for Industrial and Applied Mathematics. <br>
+    Competitive travel award to support my participation in the conference on Nonlinear Waves and Coherent Structures (NWCS26). <br>
+
+  * #### Postgraduate Publication of the Year
+    UCC College of Science, Engineering and Food Science. <br>
+    I received this award for my independent research article "Nonhydrostatic internal waves in the presence of mean currents
+and rotation", Journal of Mathematical Physics, 65(4)
+
 ### Teaching
 
 * #### Teaching assistant - University College Cork
