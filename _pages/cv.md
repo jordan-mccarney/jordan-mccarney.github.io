@@ -12,9 +12,13 @@ redirect_from:
 
 Click [here](/files/siteCV.pdf) to download a more complete CV.
 
+### Employment 
+
+* Post-Doctoral Researcher, University College Cork. October 2026 - Present
+
 ### Education
 
-* Ph.D in Mathematics, University College Cork, 2026 (expected). <br>
+* Ph.D in Mathematics, University College Cork, 2026. <br>
   Thesis: Mathematical aspects of internal wave-current interactions. <br>
   Advisor: Dr. David Henry.
 * B.Sc. in Theoretical Physics, University of Galway (formerly National University of Ireland, Galway). <br>
@@ -35,6 +39,7 @@ and rotation", *Journal of Mathematical Physics*, 65(4), 2024.
 ### Teaching
 
 * #### Teaching assistant - University College Cork
+  + AM4052 Functional Analysis
   + AM4063 Partial Differential Equations with Applications II <br>
   + AM3063 Partial Differential Equations with Applications I <br>
   + AM3052 Introduction to Fluid Mechanics and Wave Theories <br>
