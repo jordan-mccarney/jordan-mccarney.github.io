@@ -12,8 +12,8 @@ author_profile: false
 - (with D. Devine) Flow underlying coupled surface and internal waves with rotational lower layer. <br>
   *In preparation*.
 
-- (with T. Lyons) Nonlinear temperature dependent enthalpies in exact nonlinear mountain waves. <br>
-  *Differential and Integral Equations, in press.*
+- (with T. Lyons) [Nonlinear temperature dependent enthalpies in exact nonlinear mountain waves](https://projecteuclid.org/journals/differential-and-integral-equations/volume-39/issue-7_2f_8/Nonlinear-emperature-dependent-enthalpies-in-exact-nonlinear-mountain-waves/10.57262/die039-0708-589.short). <br>
+  *Differential and Integral Equations,* 39(7/8).
 
 ## 2025
 
