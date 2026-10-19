@@ -14,7 +14,7 @@ Click [here](/files/siteCV.pdf) to download a more complete CV.
 
 ### Employment 
 
-* Post-Doctoral Researcher, University College Cork. October 2026 - Present
+* Postdoctoral Researcher, University College Cork. October 2026 - Present
 
 ### Education
 
