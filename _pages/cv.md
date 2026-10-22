@@ -64,3 +64,4 @@ and rotation", *Journal of Mathematical Physics*, 65(4), 2024.
 * Nonlinear Analysis: Real World Applications
 * Qualitative Theory of Dynamical Systems
 * Pure and Applied Geophysics
+* European Journal of Mechanics / B Fluids
