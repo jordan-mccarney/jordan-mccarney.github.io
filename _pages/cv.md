@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 -----
 
-Click [here](/files/siteCV.pdf) to download a more complete CV.
+Click [here](/files/WebsiteCV.pdf) to download a more complete CV.
 
 ### Employment 
 
