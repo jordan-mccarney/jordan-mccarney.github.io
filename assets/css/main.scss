@@ -48,3 +48,17 @@
 a:visited {
     color: var(--global-link-color-visited) !important;
 }
+/* Nav bar links, including visited ones */
+.greedy-nav .visible-links a,
+.greedy-nav .visible-links a:visited {
+  color: #ffffff !important;
+}
+
+/* Dropdown menu: blue box to match the header */
+.greedy-nav .hidden-links {
+  background: #153f62 !important;
+}
+.greedy-nav .hidden-links a,
+.greedy-nav .hidden-links a:visited {
+  color: #ffffff !important;
+}
